@@ -1,0 +1,13 @@
+<?xml version="1.0"?>  //отсутствует данная строка
+<users>   //нужен тег users
+    <user>
+
+        <name>"Иван"</name>
+        <surname>"Иванов"</surname>
+        <patronymic>"Иванович"</patronymic>
+        <age>"30"</age>
+        <phone>"+7 926 766 48 48"</phone>  //место рождения и телефон перепутаны
+        <birthplace>"Москва"</birthplace>
+
+    </user> //отсутствует закрывющая скобка.
+</users>
